@@ -12,6 +12,7 @@ int bombTimer = 0;
 boolean forcefieldActive = false;
 int forcefieldTimer = 0;
 
+//setup
 void setup() {
   size(400, 400);
 
